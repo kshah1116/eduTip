@@ -1,4 +1,4 @@
-## LearnEd (E-learning Website)
+## eduTip (E-learning Website)
 An educational website for students and programmers 😊😊😊  
 
 ![](pcView.png)
@@ -14,14 +14,12 @@ Interview questions for students who are preparing for placements.
    easily access our website from  any device.  
 ✔ Quiz Section is an interesting feature for students which provide them with  
    lots of questions. They can view their scores easily and solutions of every questions.  
-✔ Projects – in this I have added a project section where students from schools and  
+✔ Projects – in this we have added a project section where students from schools and  
    colleges can get projects for final year and for Class 12th Board Projects.  
    
 It is completely responsive website, to provide smooth experience...😎  
 
 ![](mobileView.png)  
 
-Try this out::  
-https://jangveersoothe.github.io/Edutip-PBL/
 
-If you like my project, give it a star  😁😁😁
+
